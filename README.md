@@ -13,7 +13,7 @@ and Google Colab.
 
 **[kras-g12d-pmhc-binder](https://github.com/Abdulrahman-Neamah/kras-g12d-pmhc-binder)** — Mutation-specific binder to the KRAS G12D neoantigen on HLA-A\*11:01, discriminating against both the wild-type peptide and the empty MHC. A charge-biased ProteinMPNN redesign built an interface the parent scaffold did not have. The fullest writeup of the three, and the place to start.
 
-**[egfr-conditional-binder](https://github.com/Abdulrahman-Neamah/egfr-conditional-binder)** — pH-conditional EGFR binder (Challenge 1), plus two negative results worth more than the positive one: the TNF-α challenge I abandoned, and a top-ranked TfR1 design that turned out to be threaded through its target at 0.41 Å while scoring well on every confidence metric available.
+**[ph-conditional-binder-design](https://github.com/Abdulrahman-Neamah/ph-conditional-binder-design)** — Every pH-switchable challenge I attempted: EGFR (submitted), TNF-α and TfR1 (both negative results). The two failures are worth more than the success — one was a top-ranked design that turned out to be threaded through its target at 0.41 Å while scoring well on every confidence metric available.
 
 **[glp1r-agonist-binder-design](https://github.com/Abdulrahman-Neamah/glp1r-agonist-binder-design)** — De novo groove binders against full-length GLP-1R, designed against the whole receptor rather than the isolated extracellular domain. Includes an honest account of what the method cannot do: no predictor tells you whether a binder activates a receptor.
 
