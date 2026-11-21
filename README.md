@@ -22,9 +22,10 @@ and Google Colab.
 ---
 
 A theme across these: confidence metrics are easy to over-read. ipTM and ipSAE disagreed on
-15 of 20 designs in the KRAS work, and none of the standard interface scores contains a
-steric term — which is how a physically impossible design came first in an earlier round.
-Each repository states what was predicted, what was measured, and what neither establishes.
+6 of the 27 designs screened in the KRAS work, and none of the standard interface scores
+contains a steric term — which is how a physically impossible design came first in an
+earlier round. Each repository states what was predicted, what was measured, and what
+neither establishes.
 
 Interested in peptide and protein therapeutics, and in moving this kind of work from
 prediction into the lab.
